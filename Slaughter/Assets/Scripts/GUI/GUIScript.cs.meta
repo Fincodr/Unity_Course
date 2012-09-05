@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ee33099236b3849298cb796e331326da
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - logoTexture: {instanceID: 0}
+  - playerModel: {instanceID: 0}
+  - enemyModel: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - ConsoleSkin: {instanceID: 0}
+  - playerObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
